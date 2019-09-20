@@ -17,7 +17,7 @@
 [简体中文](./README_CN.md) | [English](./README.md)
 
 ## Introduction
-```
+
 [vue-element-frontend-backend](https://github.com/DevOpsUnionTop/vue-element-frontend-backend) is a production-ready front-end
 and back-end solution for admin interfaces.It based on [vue-element-admin](https://panjiachen.github.io/vue-element-admin/)
 and Back-end self-development[python+django+restful). Development and Improvement of Front Section Technology Based on vue-element-admin，
@@ -34,7 +34,6 @@ demo example：
 		back-end：get_table_info api return avue arch, and  get list real datas
 		Combination of the two to synthesize a table's add, delete, check, import and export functions with minimal code.
 
-```
 ## Preparation
 
 You need to install node and python3.6 locally. The project is based on [vue-element-admin]
