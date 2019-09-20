@@ -84,4 +84,4 @@
 
 ## 安装文档
 [中文安装文档](./INSTALL_CN.md)
-[English Docs](./INSTALL_EN.md)
+[English Install Docs](./INSTALL_EN.md)
