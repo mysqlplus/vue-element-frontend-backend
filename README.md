@@ -18,11 +18,15 @@
 
 ## Introduction
 ```
-[vue-element-frontend-backend](https://github.com/DevOpsUnionTop/vue-element-frontend-backend) is a production-ready front-end and back-end solution for admin interfaces.It based on [vue-element-admin](https://panjiachen.github.io/vue-element-admin/) and Back-end self-development[python+django+restful). Development and Improvement of Front Section Technology Based on vue-element-admin，the back-end code is developed with Python + Django and designed with restful architecture.
+[vue-element-frontend-backend](https://github.com/DevOpsUnionTop/vue-element-frontend-backend) is a production-ready front-end
+and back-end solution for admin interfaces.It based on [vue-element-admin](https://panjiachen.github.io/vue-element-admin/)
+and Back-end self-development[python+django+restful). Development and Improvement of Front Section Technology Based on vue-element-admin，
+the back-end code is developed with Python + Django and designed with restful architecture.
 
 Privilege management：
 	Back-end： Using RBAC mode，Using RBAC mode, Cooperating with Restful url + Method Operation to do back-end privilege authentication
-	Front-end： according to the url list returned by the backend userinfo url,matching menu for front-end menu display or not,whether there is deletion inside or not, and updating permissions is mainly based on the specific URL permissions of the back end
+	Front-end： according to the url list returned by the backend userinfo url,matching menu for front-end menu display or not,whether there
+	  is deletion inside or not, and updating permissions is mainly based on the specific URL permissions of the back end.
 
 demo example：
 	cmdb demo： 
@@ -33,9 +37,12 @@ demo example：
 ```
 ## Preparation
 
-You need to install node and python3.6 locally. The project is based on [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)-[vue,vuex,vue-router,vue-cli,axios,element-ui,avue], all request data is simulated using backend-python+django. Understanding and learning this knowledge in advance will greatly help the use of this project.
+You need to install node and python3.6 locally. The project is based on [vue-element-admin]
+(https://github.com/PanJiaChen/vue-element-admin)-[vue,vuex,vue-router,vue-cli,axios,element-ui,avue],
+ all request data is simulated using backend-python+django. Understanding and learning this knowledge in advance will
+ greatly help the use of this project.
 
- <p align="center">
+<p align="center">
   <img width="900" src="https://wpimg.wallstcn.com/a5894c1b-f6af-456e-82df-1151da0839bf.png">
 </p>
 Back-end api
