@@ -17,24 +17,20 @@
 [简体中文](./README_CN.md) | [English](./README.md)
 
 ## Introduction
-
+```
 [vue-element-frontend-backend](https://github.com/DevOpsUnionTop/vue-element-frontend-backend) is a production-ready front-end and back-end solution for admin interfaces.It based on [vue-element-admin](https://panjiachen.github.io/vue-element-admin/) and Back-end self-development[python+django+restful). Development and Improvement of Front Section Technology Based on vue-element-admin，the back-end code is developed with Python + Django and designed with restful architecture.
 
 Privilege management：
-
 	Back-end： Using RBAC mode，Using RBAC mode, Cooperating with Restful url + Method Operation to do back-end privilege authentication
-
 	Front-end： according to the url list returned by the backend userinfo url,matching menu for front-end menu display or not,whether there is deletion inside or not, and updating permissions is mainly based on the specific URL permissions of the back end
 
 demo example：
 	cmdb demo： 
 		front-end：Using avue build front-end Table management
-
 		back-end：get_table_info api return avue arch, and  get list real datas
-
 		Combination of the two to synthesize a table's add, delete, check, import and export functions with minimal code.
 
-
+```
 ## Preparation
 
 You need to install node and python3.6 locally. The project is based on [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)-[vue,vuex,vue-router,vue-cli,axios,element-ui,avue], all request data is simulated using backend-python+django. Understanding and learning this knowledge in advance will greatly help the use of this project.
