@@ -27,12 +27,13 @@ djangorestframework==3.9.0
 Clone the repository:
 
 ```zsh
-    git clone git@gitlab.opengalaxy.com/open_galaxy_demo.git
+    git clone git@github.com:DevOpsUnionTop/vue-element-frontend-backend.git
 ```
 
 Create and activate virtualenv:
 
 ```zsh
+➜  cd vue-element-frontend-backend
 ➜  virtualenv -p python3 env
 ➜  source env/bin/activate
 ```
