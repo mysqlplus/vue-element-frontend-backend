@@ -38,6 +38,10 @@ You need to install node and python3.6 locally. The project is based on [vue-ele
  <p align="center">
   <img width="900" src="https://wpimg.wallstcn.com/a5894c1b-f6af-456e-82df-1151da0839bf.png">
 </p>
+Back-end api
+<p align="center">
+  <img width="900" src="http://www.bdkyr.com/open_galaxy/static/img/api_docs.png">
+</p>
 
 ## Features
 
