@@ -23,10 +23,14 @@
 前段技术大部分继承来自vue-element-admin，完全再次基础上进行开发，改进，后端技术使用python+django开发代码，使用resutful架构风格完成整体风格设计。
 
 权限管理：
+
+
 	后端权限： 使用RBAC模式，配合restful资源+方法 操作 做后端权限认证管理 
 	前段权限： 根据后端userinfo返回的url匹配 menu 进行menu显示与否，具体里边是否有删除，更新权限 以后端 具体url权限为主。
 
 另外做了一个demo举例：
+
+
 	资产管理模块demo说明： 
 		前段：使用avue构建前段 表格管理 
 		后端：get_table_info接口返回avue框架, 以及 get list接口 数据
