@@ -17,7 +17,7 @@
   </a>
 </p>
 
-简体中文(./README_CN.md) | [English](./README.md)
+[简体中文](./README_CN.md) | [English](./README.md)
 
 ## 介绍
 
@@ -84,4 +84,4 @@
 
 ## 安装文档
 [中文安装文档](./INSTALL_CN.md)
-[install doc](./INSTALL_EN.md)
+[English Docs](./INSTALL_EN.md)
