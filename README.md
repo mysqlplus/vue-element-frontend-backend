@@ -19,7 +19,7 @@
 
 简体中文(./README_CN.md) | [English](./README.md)
 
-## Introduction
+## 介绍
 
 [vue-element-frontend-backend](https://github.com/DevOpsUnionTop/vue-element-frontend-backend) 是一个后台前后端集成解决方案，它前段基于 [vue-element-admin](https://panjiachen.github.io/vue-element-admin/) 和 后端自研[python+django+restful]。前段技术大部分继承来自vue-element-admin，完全再次基础上进行开发，改进，后端技术使用python+django开发代码，使用resutful架构风格完成整体风格设计。
 
@@ -83,5 +83,5 @@
 ```
 
 ## 安装文档
-[cn](./INSTALL_CN.md)
-[en](./INSTALL_EN.md)
+[中文安装文档](./INSTALL_CN.md)
+[install doc](./INSTALL_EN.md)
