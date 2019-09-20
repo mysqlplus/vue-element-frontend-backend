@@ -41,9 +41,8 @@ demo example(cmdb demo):
 
 ## Preparation
 
-You need to install node and python3.6 locally. The project is based on [vue-element-admin]
-(https://github.com/PanJiaChen/vue-element-admin)-[vue,vuex,vue-router,vue-cli,axios,element-ui,avue],
- all request data is simulated using backend-python+django. Understanding and learning this knowledge in advance will
+You need to install node and python3.6 locally. The project is based on [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+[vue,vuex,vue-router,vue-cli,axios,element-ui,avue], all request data is simulated using backend-python+django. Understanding and learning this knowledge in advance will
  greatly help the use of this project.
 
 <p align="center">
