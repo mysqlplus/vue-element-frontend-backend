@@ -18,7 +18,9 @@
 
 ## 介绍
 
-[vue-element-frontend-backend](https://github.com/DevOpsUnionTop/vue-element-frontend-backend) 是一个后台前后端集成解决方案，它前段基于 [vue-element-admin](https://panjiachen.github.io/vue-element-admin/) 和 后端自研[python+django+restful]。前段技术大部分继承来自vue-element-admin，完全再次基础上进行开发，改进，后端技术使用python+django开发代码，使用resutful架构风格完成整体风格设计。
+[vue-element-frontend-backend](https://github.com/DevOpsUnionTop/vue-element-frontend-backend) 是一个后台前后端集成解决方案，
+它前段基于 [vue-element-admin](https://panjiachen.github.io/vue-element-admin/) 和 后端自研[python+django+restful]。
+前段技术大部分继承来自vue-element-admin，完全再次基础上进行开发，改进，后端技术使用python+django开发代码，使用resutful架构风格完成整体风格设计。
 
 权限管理：
 	后端权限： 使用RBAC模式，配合restful资源+方法 操作 做后端权限认证管理 
@@ -33,8 +35,10 @@
 
 ## 前序准备
 
-你需要在本地安装 [node](http://nodejs.org/) 和 python3.6。本项目技术栈基于 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)、[vue](https://cn.vuejs.org/index.html)、[vuex](https://vuex.vuejs.org/zh-cn/)、[vue-router](https://router.vuejs.org/zh-cn/) 、[axios](https://github.com/axios/axios) , [element-ui](https://github.com/ElemeFE/element)和[python](https://www.runoob.com/python3/python3-tutorial.html)，所有的请求数据都使用后端api接口返回，提前了解和学习这些知识会对使用本项目有很大的帮助。
-- [潘先生/女士前段教程 (实战篇)](https://github.com/PanJiaChen/vue-element-admin)
+你需要在本地安装 [node](http://nodejs.org/) 和 python3.6。本项目技术栈基于 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)、[vue](https://cn.vuejs.org/index.html)、[vuex](https://vuex.vuejs.org/zh-cn/)、[vue-router](https://router.vuejs.org/zh-cn/) 、[axios](https://github.com/axios/axios) , [element-ui](https://github.com/ElemeFE/element)和[python](https://www.runoob.com/python3/python3-tutorial.html)，
+所有的请求数据都使用后端api接口返回，提前了解和学习这些知识会对使用本项目有很大的帮助。
+
+- [潘(先生/女士)前段教程 (实战篇)](https://github.com/PanJiaChen/vue-element-admin)
 
 **如有问题请先看上述使用文档和文章，若不能满足，欢迎 issue 和 pr**
 
