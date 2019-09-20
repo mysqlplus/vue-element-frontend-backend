@@ -9,9 +9,6 @@
   <a href="https://github.com/ElemeFE/element">
     <img src="https://img.shields.io/badge/element--ui-2.3.2-brightgreen.svg" alt="element-ui">
   </a>
-  <a href="https://travis-ci.org/PanJiaChen/vue-element-admin" rel="nofollow">
-    <img src="https://github.com/DevOpsUnionTop/vue-element-frontend-backend?branch=master" alt="Build Status">
-  </a>
   <a href="https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
@@ -86,4 +83,4 @@ You need to install node and python3.6 locally. The project is based on [vue-ele
 
 ## Install Docs
 [中文安装文档](./INSTALL_CN.md)
-[English Docs](./INSTALL_EN.md)
+[English Install Docs](./INSTALL_EN.md)
