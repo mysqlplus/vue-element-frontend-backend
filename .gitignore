@@ -1,0 +1,55 @@
+nohup.out
+*.log
+config.ini
+.env
+.idea/
+
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### SublimeText ###
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# workspace files are user-specific
+*.sublime-workspace
+
+# project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using SublimeText
+# *.sublime-project
+
+# Basics
+*.py[cod]
+__pycache__
+
+# Database
+db.sqlite3
+
+# Vim
+*~
+*.swp
+*.swo
+
+# Compass
+.sass-cache
+
+# virtual environments
+env
+
+# User-uploaded media
+staticfiles/
+.cache/
+
+!.gitignore
+!.gitkeep
