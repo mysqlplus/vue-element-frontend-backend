@@ -25,14 +25,13 @@ the back-end code is developed with Python + Django and designed with restful ar
 
 Privilege management：
 
-	Back-end： Using RBAC mode，Using RBAC mode, Cooperating with Restful url + Method Operation to do back-end privilege authentication
 
+	Back-end： Using RBAC mode，Using RBAC mode, Cooperating with Restful url + Method Operation to do back-end privilege authentication
 	Front-end： according to the url list returned by the backend userinfo url,matching menu for front-end menu display or not,whether there
 	  is deletion inside or not, and updating permissions is mainly based on the specific URL permissions of the back end.
 
-demo example：
+demo example(cmdb demo):
 
-	cmdb demo:
 
 		front-end：Using avue build front-end Table management
 		back-end：get_table_info api return avue arch, and  get list real datas
@@ -96,5 +95,7 @@ Back-end api
 ```
 
 ## Install Docs
+
+
 [中文安装文档](./INSTALL_CN.md)
 [English Install Docs](./INSTALL_EN.md)
